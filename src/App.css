@@ -1,0 +1,20 @@
+body {
+  background-color: #212729 !important;
+ color: aliceblue !important;
+}
+
+.list_item {
+  padding: 20px !important;
+  cursor: pointer !important;
+  font-size: 23px;
+  display: flex !important;
+  justify-content: space-between;
+}
+
+input {
+  font-size: 23px !important;
+}
+
+.titlee {
+  font-size: 28px !important;
+}
